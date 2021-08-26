@@ -1,3 +1,5 @@
+package com.cc.java;
+
 public class Cat {
     
     // Attribut | Field | Property
